@@ -74,6 +74,7 @@ export function Footer({ object }: HomeProps) {
           alt="Animation"
           priority={true}
           quality={100}
+          unoptimized
           width={400}
           height={400}
           className="hidden animate-pulse rounded-full md:block md:w-[240px] lg:w-[360px]"
