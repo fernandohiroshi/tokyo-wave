@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply m-0 box-border list-none bg-neutral-100 p-0 text-black no-underline antialiased outline-none dark:bg-neutral-950 dark:text-white;
+  }
+}
