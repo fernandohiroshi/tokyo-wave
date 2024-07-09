@@ -25,7 +25,7 @@ export default async function Home() {
         <Footer object={object} />
       </div>
       <span className="flex justify-center pb-4 text-center text-xs tracking-widest opacity-80 md:text-sm">
-        © 2024 Tokyo Wave. All rights reserved.
+        © {`${new Date().getFullYear()}`} Tokyo Wave. All rights reserved.
       </span>
     </main>
   )
