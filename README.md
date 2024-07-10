@@ -7,7 +7,7 @@ Tokyo Wave is a fictitious modeling agency site for Tokyo Shibuya. It was develo
 Next.js 14, TypeScript, Tailwind, and integrated with the Cosmic API. The project is fully responsive.
 
 
-![Preview](./preview.png)
+![Preview](./readme1.png)
 
 
 ## Installation
@@ -36,7 +36,7 @@ The Cosmic JS CMS allows you to change the title, banner, and introduce models. 
 easy-to-use interface for managing the site's content.
 
 
-![Preview](./preview2.png)
+![Preview](./readme2.png)
 
 
 ## Development Setup
