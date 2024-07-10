@@ -15,6 +15,7 @@ Next.js 14, TypeScript, Tailwind, and integrated with the Cosmic API. The projec
 1. Clone the repository: `git clone https://github.com/yourusername/tokyo-wave.git`
 2. Navigate to the project directory: `cd tokyo-wave`
 
+
 ### Yarn
 
 3. Install dependencies: `yarn install`
@@ -22,10 +23,9 @@ Next.js 14, TypeScript, Tailwind, and integrated with the Cosmic API. The projec
 
 ### NPM
 
-3. Install dependencies: `npm install`
-4. Start the application: `npm run dev`
+## Note:
 
-### PNPM
+Ensure you have set up your .env.local file with the required API keys for the Cosmic API. These keys are restricted and necessary for the application to function properly.
 
 3. Install dependencies: `pnpm install`
 4. Start the application: `pnpm dev`
